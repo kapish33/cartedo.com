@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+  .cpm {
+    @apply p-4 m-4;
+  }
+}
